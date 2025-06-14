@@ -1,2 +1,2 @@
-# Lfs-Pr
+# Radiance LFS
 LFS concept
