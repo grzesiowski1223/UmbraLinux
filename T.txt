@@ -1,0 +1,9 @@
+Puporials:
+
+https://www.linuxfromscratch.org/
+
+https://www.linuxfromscratch.org/lfs/view/stable-systemd/
+
+https://www.youtube.com/watch?v=8EBf5bfcExg
+
+https://linuxmint.com/download.php
