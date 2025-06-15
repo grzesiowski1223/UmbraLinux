@@ -15,7 +15,7 @@ mkdir -pv $LFS
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 1st process (mkdir) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to create mount point!"
+    echo -e "${RED}[ERROR]${NC} Failed to create mount point! ERR-01"
     problems=$((problems + 1))
 fi
 
@@ -25,7 +25,7 @@ mount -v -t ext4 /dev/sda3 $LFS
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 2nd process (mount /dev/sda3) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to mount /dev/sda3!"
+    echo -e "${RED}[ERROR]${NC} Failed to mount /dev/sda3! ERR-002"
     problems=$((problems + 1))
 fi
 
@@ -37,7 +37,7 @@ mount -v -t ext4 /dev/sda1 $LFS/boot
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 3rd process (mount /dev/sda1) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to mount /dev/sda1!"
+    echo -e "${RED}[ERROR]${NC} Failed to mount /dev/sda1! ERR-003"
     problems=$((problems + 1))
 fi
 
@@ -47,7 +47,7 @@ chown root:root $LFS && chmod 755 $LFS
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 4th process (permissions) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to set permissions!"
+    echo -e "${RED}[ERROR]${NC} Failed to set permissions! ERR-004"
     problems=$((problems + 1))
 fi
 
@@ -58,7 +58,7 @@ echo "Turning swap partition on..."
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 5th process (swapON) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to turn swapON!"
+    echo -e "${RED}[ERROR]${NC} Failed to turn swapON! ERR-005"
     problems=$((problems + 1))
 fi
 
