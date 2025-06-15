@@ -15,7 +15,7 @@ echo $LFS
 if [ "$LFS" = "/mnt/lfs" ]; then
     echo -e "${GREEN}[OK] ${NC}LFS variable set properly to /mnt/lfs"
 else
-    echo -e "${RED}[ERROR] ${NC}LFS is NOT set to /mnt/lfs"
+    echo -e "${RED}[ERROR] ${NC}LFS is NOT set to /mnt/lfs. ERR-10"
 fi
 
 echo ".."
@@ -26,5 +26,5 @@ sleep 2s
 if [ "$(umask)" = "0022" ]; then
     echo -e "${GREEN}[OK] ${NC}Umask set properly to 0022"
 else
-    echo -e "${RED}[ERROR] ${NC}Umask is NOT set properly to 0022"
+    echo -e "${RED}[ERROR] ${NC}Umask is NOT set properly to 0022. ERR-22"
 fi
