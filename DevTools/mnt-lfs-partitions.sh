@@ -51,6 +51,17 @@ else
     problems=$((problems + 1))
 fi
 
+sleep 2s
+
+echo "Turning swap partition on..."
+/sbin/swapon -v /dev/sda2
+if [ $? -eq 0 ]; then
+    echo -e "${GREEN}[OK]${NC} 5th process (swapON) was done!"
+else
+    echo -e "${RED}[ERROR]${NC} Failed to turn swapON!"
+    problems=$((problems + 1))
+fi
+
 sleep 1s
 echo "-----------------------------"
 if [ "$problems" -eq 0 ]; then
