@@ -2,6 +2,28 @@ List of Error Codes in Developer Tools
 
 ERR010 - Variable $LFS is not set properly ( /mnt/lsf )
 
-ERR022 - The umask is not set to 0022 (Only gentoo if it is 022 on another distro its fine and you can continue)
+ERR22 - The umask is not set to 0022 (Only gentoo if it is 022 on another distro
 
-ERR021 - The path is not set proprely or its bug in code.
+ERR21 - The path is not set proprely or its bug in code.
+
+ERR01 - Failed to create mount point
+
+ERR02 -  Failed to mount /dev/sda3
+
+ERR03 -  Failed to mount /dev/sda1
+
+ERR04 -  Failed to set permissions
+
+ERR05 -  Failed to turn swapON
+
+ERR06 - 
+
+ERR07 - 
+
+ERR08 - 
+
+ERR09 - 
+
+ERR11 -
+
+ERR12 - 
