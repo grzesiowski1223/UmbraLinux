@@ -1,7 +1,7 @@
 List of Error Codes in Developer Tools
 
-ERR10 - Variable $LFS is not set properly ( /mnt/lsf )
+ERR010 - Variable $LFS is not set properly ( /mnt/lsf )
 
-ERR22 - The umask is not set to 0022 (Only gentoo if it is 022 on another distro its fine and you can continue)
+ERR022 - The umask is not set to 0022 (Only gentoo if it is 022 on another distro its fine and you can continue)
 
-ERR21 - The path is not set proprely or its bug in code.
+ERR021 - The path is not set proprely or its bug in code.
