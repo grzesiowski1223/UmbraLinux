@@ -15,7 +15,7 @@ mkdir -pv $LFS
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}[OK]${NC} 1st process (mkdir) was done!"
 else
-    echo -e "${RED}[ERROR]${NC} Failed to create mount point!"
+    echo -e "${RED}[ERROR]${NC} Failed to create mount point! ERR-69"
     problems=$((problems + 1))
 fi
 
