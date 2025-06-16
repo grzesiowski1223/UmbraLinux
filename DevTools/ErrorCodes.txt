@@ -14,7 +14,7 @@ ERR03 -  Failed to mount /dev/sda1
 
 ERR04 -  Failed to set permissions
 
-ERR05 -  Failed to turn swapON
+ERR05 -  Failed to turn swap partition On
 
 ERR06 - 
 
