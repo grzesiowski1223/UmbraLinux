@@ -1,5 +1,0 @@
-Puporials:
-
-https://www.linuxfromscratch.org/
-
-https://www.linuxfromscratch.org/lfs/view/stable-systemd/
