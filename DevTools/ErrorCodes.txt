@@ -6,13 +6,13 @@ ERR22 - The umask is not set to 0022 (Only gentoo if it is 022 on another distro
 
 ERR21 - The path is not set proprely or its bug in code.
 
-ERR01 - Failed to create mount point
+ERR01 - Failed to create mount point of the drive with $LFS
 
-ERR02 -  Failed to mount /dev/sda3
+ERR02 -  Failed to mount the /dev/sda3 (Root partition)
 
-ERR03 -  Failed to mount /dev/sda1
+ERR03 -  Failed to mount the /dev/sda1 (Boot partition)
 
-ERR04 -  Failed to set permissions
+ERR04 -  Failed to set permissions for the LFS default user.
 
 ERR05 -  Failed to turn swap partition On
 
