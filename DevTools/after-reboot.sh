@@ -7,6 +7,8 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
+export LFS=/mnt/lfs
+
 echo Checking_for_LFS_variable
 echo $LFS
 
