@@ -13,7 +13,7 @@ echo Checking_for_LFS_variable
 echo $LFS
 
 if [ "$LFS" = "/mnt/lfs" ]; then
-    echo -e "${GREEN}[OK] ${NC}LFS variable set properly to /mnt/lfs"
+    echo -e "${GREEN}[OK] ${NC}LFS variable set properly to /mnt/lfs (For ROOT)"
 else
     echo -e "${RED}[ERROR] ${NC}LFS is NOT set to /mnt/lfs.  ERR-10"
 fi
@@ -90,6 +90,29 @@ if [ "$problems" -eq 0 ]; then
     echo -e "${GREEN}0 problems found ✔️${NC}"
 else
     echo -e "${RED}$problems problem(s) found ❌${NC}"
+fi
+
+
+export LFS=/mnt/lfs
+
+echo Checking_for_LFS_variable
+echo $LFS
+
+if [ "$LFS" = "/mnt/lfs" ]; then
+    echo -e "${GREEN}[OK] ${NC}LFS variable set properly to /mnt/lfs (For LFS User)"
+else
+    echo -e "${RED}[ERROR] ${NC}LFS is NOT set to /mnt/lfs.  ERR-16"
+fi
+
+echo ".."
+echo "Checking_For_umask_variable"
+echo ".."
+sleep 2s
+
+if [ "$(umask)" = "0022" ]; then
+    echo -e "${GREEN}[OK] ${NC}Umask set properly to 0022"
+else
+    echo -e "${RED}[ERROR] ${NC}Umask is NOT set properly to 0022.  ERR-22"
 fi
 
 groupadd lfs
