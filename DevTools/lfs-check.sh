@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Check for LFS variable and umask number script
+# Check for LFS variable and umask number script
 
-#Created by grzesowski1223
+# Created by grzesowski1223
 
 # COLORS
 RED='\033[0;31m'
