@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Automated script to run after each reboot of the Developer Host OS
+# Automated script to run after each reboot of the Developer Host OS
 
 # COLORS
 RED='\033[0;31m'
