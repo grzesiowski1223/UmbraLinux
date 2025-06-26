@@ -98,9 +98,7 @@ useradd -s /bin/bash -g lfs -m -k /dev/null lfs
   sleep 1s
 sudo su - lfs
   sleep 1s
-
   
-
 export LFS=/mnt/lfs
 
 echo Checking_for_LFS_variable
