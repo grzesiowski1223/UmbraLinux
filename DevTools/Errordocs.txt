@@ -1,0 +1,22 @@
+####################################################
+#                                                  #  
+#    Error Documentation (Compiling Tools etc.)    #
+#                                                  #
+####################################################
+
+-------------------------------------------First------------------------------------------
+
+Documenting an errors in chroot enviroments making glibc 05.07.2025 (Chapter 8 Point 4)
+
+WHILE = 
+make check
+
+  97 FAILS
+    5432 PASS
+      644 UNSUPORTED
+        16 XFAIL
+          4 XPASS
+
+!! ERROR Details can be vieved at UmbraLinux/DevTools/ErrDocs/testglibc(05.07.2025).txt !!
+
+------------------------------------------------------------------------------------------
