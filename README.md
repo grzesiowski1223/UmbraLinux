@@ -4,7 +4,7 @@
 
 # Umbra Linux Distribution
 
-A brief description of what this project does and who it's for
+Linux Distro based on **Linux From Scratch 12.3 (systemd)**
 
 ## Badges
 <div align="center">
