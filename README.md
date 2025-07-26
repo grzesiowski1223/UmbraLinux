@@ -29,9 +29,24 @@ A brief description of what this project does and who it's for
 
 ## Our Mission
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eros ligula, sodales et sollicitudin interdum, finibus in leo. Suspendisse potenti. Pellentesque non auctor arcu. Fusce tempor justo quis dolor lobortis, tincidunt varius lectus egestas. Aenean mollis nisl et justo mattis, ut dignissim dui sodales. Integer luctus eros purus, ac porttitor lorem porta a. Phasellus at luctus felis.
+Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It offers the educational and transparent foundation of LFS, combined with a **ready-to-use user experience** – no manual [[compiling]] needed.
 
-Donec eleifend risus convallis, egestas velit vitae, sagittis dui. Integer posuere rhoncus magna vitae tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce purus leo, lacinia sit amet aliquam id, hendrerit non diam. Sed ultrices consequat enim. Nulla mollis augue nec eleifend gravida. Fusce auctor consectetur est ut feugiat. 
+#### Three prebuilt desktop configurations:
+
+1. **Umbra Classic** – A lightweight, clean experience inspired by macOS:  
+    XFCE + Docky delivers elegance and simplicity. Great for newcomers and those who want a familiar layout.
+    
+2. **Umbra Flux** – For power users and tiling window manager fans:  
+    Wayland + Sway gives you full control with a fast, minimalist interface and CLI-focused tools.
+    
+3. **Umbra Studio** – Based on **Umbra Classic**, tailored for musicians:  
+    Comes with **REAPER** preinstalled, plus LV2/VST plugin support and JACK/PipeWire audio routing. Fully configured to work out of the box.
+    
+
+🔹 **Powered by systemd** – modern service management  
+🔹 **Includes developer and multimedia tools**  
+🔹 **Minimal by default** – no extra software you don’t need  
+🔹 **Great for learning** – transparent LFS base for those curious about Linux internals. 
 ## Documentation
 
 [Documentation](https://nerdnetwork.infy.uk/?i=1)
