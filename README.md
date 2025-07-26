@@ -24,7 +24,7 @@ Linux Distro based on **Linux From Scratch 12.3 (systemd)**
 
 ![Discord Server](https://img.shields.io/discord/1383811397644976188?label=Discord&logo=discord)
 
-[![Wiki](https://img.shields.io/badge/Read-wiki-cc5490.svg?logo=github)](#)
+[![Wiki](https://img.shields.io/badge/Read-wiki-cc5490.svg?logo=github)](https://github.com/grzesiowski1223/UmbraLinux/wiki)
 </div>
 
 ## Our Mission
