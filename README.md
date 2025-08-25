@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/grzesiowski1223/grzesiowski1223/blob/main/ultux.png)
+![Logo](https://github.com/grzesiowski1223/grzesiowski1223/blob/main/ulLogoLight.png)
 
 
 # Umbra Linux Distribution
