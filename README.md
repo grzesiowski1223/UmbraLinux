@@ -63,7 +63,7 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Support
 
-For support, email fake@fake.com or join our [Discord Server](https://discord.gg/pzQgb7cH7T)
+For support, email umbralinuxdev@gmail.com or join our [Discord Server](https://discord.gg/pzQgb7cH7T)
 
 
 ## FAQ
