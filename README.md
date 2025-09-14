@@ -45,9 +45,10 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 🔹 **Includes developer and multimedia tools**  
 🔹 **Minimal by default** – no extra software you don’t need  
 🔹 **Great for learning** – transparent LFS base for those curious about Linux internals. 
+
 ## Documentation
 
-[Documentation](https://nerdnetwork.infy.uk/?i=1)
+[Documentation](https://github.com/grzesiowski1223/UmbraLinux/wiki)
 
 
 ## Screenshots
@@ -63,16 +64,16 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Support
 
-For support, email umbralinuxdev@gmail.com or join our [Discord Server](https://discord.gg/pzQgb7cH7T)
+For support, email contact us on [Our Site](https://umbralinux.rf.gd/contact.html) or join our [Forum](https://umbralinux.rf.gd/forum/) 
 
 
 ## FAQ
 
-#### Question 1
+#### How often are new versions released?
 
-Answer 1
+First release is in 1-2 months but after that we aim to release major updates every 6 months, with minor updates and security patches released as needed.
 
-#### Question 2
+#### Can i fork this distribution?
 
-Answer 2
+Yes, Umbra Linux is completely free and open source. It's released under the MIT license, which means you can use, modify, and fork it freely.
 
