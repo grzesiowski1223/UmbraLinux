@@ -71,7 +71,7 @@ For support, email contact us on [Our Site](https://umbralinux.rf.gd/contact.htm
 
 #### How often are new versions released?
 
-First release is in 1-2 months but after that we aim to release major updates every 6 months, with minor updates and security patches released as needed.
+First release is around march 2026 but after that we aim to release major updates every 6 months, with minor updates and security patches released as needed.
 
 #### Can i fork this distribution?
 
