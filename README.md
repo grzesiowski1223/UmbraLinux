@@ -48,12 +48,12 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Documentation
 
-[Documentation](https://github.com/grzesiowski1223/UmbraLinux/wiki)
+[Documentation](https://github.com/grzesiowski1223/UmbraLinux/wiki) and [https://umbralinux.org/wiki/](https://umbralinux.org/wiki/index.php/Main_Page)
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshots](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Authors
@@ -64,7 +64,7 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Support
 
-For support, email contact us on [Our Site](https://umbralinux.rf.gd/contact.html) or join our [Forum](https://umbralinux.rf.gd/forum/) 
+For support, email contact us on [Our Site](https://umbralinux.org/contact) or join our [Forum](https://umbralinux.org/forum/) 
 
 
 ## FAQ
@@ -76,4 +76,5 @@ First release is around march 2026 but after that we aim to release major update
 #### Can i fork this distribution?
 
 Yes, Umbra Linux is completely free and open source. It's released under the MIT license, which means you can use, modify, and fork it freely.
+
 
