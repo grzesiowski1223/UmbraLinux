@@ -1,6 +1,7 @@
 # How to build Umbra Linux from Source.
 
-#### Note: This Page is currently being written, the points can change
+> [!IMPORTANT]  
+> This Page is being currently rewritten, the points can change
 
 ## 1. Compile Linux from scratch 12.3 systemd
   
