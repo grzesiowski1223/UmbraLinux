@@ -11,7 +11,7 @@ Linux Distro based on **Linux From Scratch 12.3 (systemd)**
   
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org/)
 
-[![MIT License](https://img.shields.io/badge/Licence-MIT-brightgreen)](https://opensource.org/licenses/)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 
