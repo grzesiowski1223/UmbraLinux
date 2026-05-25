@@ -50,7 +50,7 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Screenshots
 
-![Screenshots](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshots](https://github.com/grzesiowski1223/UmbraLinux/blob/main/img/screenshot.png)
 
 
 ## Authors
