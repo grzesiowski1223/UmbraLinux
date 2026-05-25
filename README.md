@@ -15,10 +15,7 @@ Linux Distro based on **Linux From Scratch 12.3 (systemd)**
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/grzesiowski1223/UmbraLinux/total)
-
 ![GitHub Release](https://img.shields.io/github/v/release/grzesiowski1223/UmbraLinux)
-
 
 ![Discord Server](https://img.shields.io/discord/1383811397644976188?label=Discord&logo=discord)
 
@@ -73,8 +70,7 @@ For support, email contact us on [Our Site](https://umbralinux.org/contact) or j
 ## FAQ
 
 #### How often are new versions released?
-
-First release is around march 2026 but after that we aim to release major updates every 6 months, with minor updates and security patches released as needed.
+We aim to release major updates every 6 months, with minor updates and security patches released as needed.
 
 #### Can i fork this distribution?
 
