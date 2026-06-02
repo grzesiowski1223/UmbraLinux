@@ -76,6 +76,6 @@ We aim to release major updates every 6 months, with minor updates and security 
 
 #### Can i fork this distribution?
 
-Yes, Umbra Linux is completely free and open source. It's released under the MIT license, which means you can use, modify, and fork it freely.
+Yes, Umbra Linux is completely free and open source. It's released under the GNU GPL license, which means you can use, modify, and fork it freely.
 
 
