@@ -31,7 +31,7 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 #### Three prebuilt desktop configurations:
 
 1. **Umbra Linux Classic** – A lightweight, clean experience inspired by macOS:  
-    XFCE + Docky delivers elegance and simplicity. Great for newcomers and those who want a familiar layout.
+    XFCE + Plank Dock delivers elegance and simplicity. Great for newcomers and those who want a familiar layout.
     
 2. **Umbra Linux Flux** – For power users and tiling window manager fans:  
     Wayland + Sway gives you full control with a fast, minimalist interface and CLI-focused tools.
