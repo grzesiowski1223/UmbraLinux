@@ -57,8 +57,8 @@ Umbra Linux is a distribution based on **Linux From Scratch 12.3 (systemd)**. It
 
 ## Authors
 
-- [@grzesiowski1223](https://www.github.com/grzesiowski1223)
-- [@snajper27](https://www.github.com/snajper27)
+- [@grzesiowski1223](https://www.github.com/grzesiowski1223) - Creator, Lead Maintainer of Umbra Linux Classic, Flux and Repositories.
+- [@snajper27](https://www.github.com/snajper27) - Maintainer of Umbra Linux Studio
 
 
 ## Support
